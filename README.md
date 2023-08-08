@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on improve my development skills
-- 🌱 I’m currently learning Data Engineering 
+- 🔭 I’m currently working on improve my development skills at @Platzi
+- 🌱 I’m currently learning Data Engineering at @Datacamp
 - 👯 I’m looking to collaborate on Intelligence Artificial and Data Engineering
 - 🤔 I’m looking for help with education
 - 💬 Ask me about ...
